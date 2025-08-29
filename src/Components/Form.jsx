@@ -4,7 +4,7 @@ import Ingredients from "./Ingredients"
 import { getRecipeFromMistral } from "./ai"
 
 export default function Form() {
-    const [ingredients, setMyIngredients] = React.useState(["chicken", "all main spices", "corn", "coconut cream", "pasta"])
+    const [ingredients, setMyIngredients] = React.useState([])
 
     const [recipe, setRecipe] = React.useState("")
     const recipeSection = React.useRef(null)
