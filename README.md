@@ -1,17 +1,33 @@
-<<<<<<< HEAD
-# Chef-Henry
-A simple interactive react web app that generates recipes based on ingredients input by the user.
-=======
-# React + Vite
+## 🍽️ Interactive Recipe Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive web app that generates recipe ideas based on user-provided ingredients. Built with React and Vite, styled with HTML and CSS, and powered by Anthropic’s Claude API to produce AI-generated recipes. A minimum of three ingredients is required to generate a recipe.
 
-Currently, two official plugins are available:
+## 🛠️ Built With
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React
 
-## Expanding the ESLint configuration
+Vite
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 1efd508 (initial commit)
+HTML5
+
+CSS3
+
+Claude API (by Anthropic)
+
+## ✨ Features
+
+AI-generated recipes using Anthropic’s Claude
+
+Ingredient-based input (minimum of 3 ingredients)
+
+Clean, responsive user interface
+
+Real-time input validation
+
+## 🚀 Getting Started
+npm install
+npm run dev
+
+## 🎯 Purpose
+
+Built to explore AI-powered content generation, modern React development with Vite, and API integration.
