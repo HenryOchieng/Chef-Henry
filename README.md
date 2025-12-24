@@ -1,6 +1,6 @@
 ## 🍽️ Interactive Recipe Generator
 
-An interactive web app that generates recipe ideas based on user-provided ingredients. Built with React and Vite, styled with HTML and CSS, and powered by Anthropic’s Claude API to produce AI-generated recipes. A minimum of three ingredients is required to generate a recipe.
+An interactive web app that generates recipe ideas based on user-provided ingredients. Built with React and Vite, styled with HTML and CSS, and powered by Anthropic’s Claude API to produce AI-generated recipes. A minimum of four ingredients is required to generate a recipe.
 
 ## 🛠️ Built With
 
@@ -18,7 +18,7 @@ Claude API (by Anthropic)
 
 AI-generated recipes using Anthropic’s Claude
 
-Ingredient-based input (minimum of 3 ingredients)
+Ingredient-based input (minimum of 4 ingredients)
 
 Clean, responsive user interface
 
