@@ -26,6 +26,7 @@ Real-time input validation
 
 ## 🚀 Getting Started
 npm install
+
 npm run dev
 
 ## 🎯 Purpose
